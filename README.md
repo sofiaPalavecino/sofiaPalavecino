@@ -2,7 +2,7 @@
 
 ## About me :woman_technologist:
 
-My name is **Sofia Palavecino**. I'm a Full-Stack developer with over two years of professional experience. I'm currently pursuing a career as a **Systems of Information Engineer** at Universidad Tecnológica Nacional, Buenos Aires.
+My name is **Sofia Palavecino**. I'm a Full-Stack developer with over two years of professional experience. I'm currently pursuing a career as a **Information Systems Engineer** at Universidad Tecnológica Nacional, Buenos Aires.
 ![](https://github.com/sofiaPalavecino/sofiaPalavecino/blob/main/cat-coding.gif)
 
 ### My Experience
