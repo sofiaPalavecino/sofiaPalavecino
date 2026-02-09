@@ -11,9 +11,12 @@ My name is **Sofia Palavecino**. I'm a Full-Stack developer with over two years 
 
 ## My last project :computer: 
 
-I’m currently learning **React**. You can find my last project using this technology here: 
+I’m currently learning **Laravel** and **React**. You can find my projects using this technology here: 
 
-#### 1 Coffee + 2 Medialunas
+#### Patients registration platform (Laravel, React)
+- [Repo](https://github.com/sofiaPalavecino/patient-registration-platform)
+
+#### 1 Coffee + 2 Medialunas (React)
 - [Live version](https://sofiapalavecino.github.io/1cafe-2medialunas/)
 - [Repo](https://github.com/sofiaPalavecino/1cafe-2medialunas)
 
